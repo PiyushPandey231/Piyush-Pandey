@@ -1,0 +1,6 @@
+{
+  "name": "Aura Deep Work & Ambient Sound Studio",
+  "description": "Distraction-free focus environment with procedural Web Audio soundscapes, customizable binaural beats, Pomodoro flow timer, task queue, and ambient visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
